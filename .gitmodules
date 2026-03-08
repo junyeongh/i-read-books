@@ -1,0 +1,12 @@
+[submodule "software-design-for-flexibility"]
+	path = software-design-for-flexibility
+	url = https://github.com/junyeongh/software-design-for-flexibility
+[submodule "web-browser-engineering"]
+	path = web-browser-engineering
+	url = https://github.com/junyeongh/web-browser-engineering.git
+[submodule "the-art-of-unit-testing"]
+	path = the-art-of-unit-testing
+	url = https://github.com/junyeongh/the-art-of-unit-testing.git
+[submodule "multi-paradigm-programming"]
+	path = multi-paradigm-programming
+	url = https://github.com/junyeongh/multi-paradigm-programming
